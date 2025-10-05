@@ -58,7 +58,7 @@ El proyecto fue desarrollado en un entorno Codespaces/DevContainer, pero es ejec
 * Node.js (v16+) y npm instalados.
 
 ### Pasos:
-1.  **Clonar el Repositorio:** `git clone [TU REPOSITORIO]`
+1.  **Clonar el Repositorio:** `git clone `https://github.com/PabloParada7/Prueba_Walmart
 2.  **Instalar Dependencias:** Navega a la carpeta raíz y ejecuta: `npm install`
 3.  **Ejecución en Modo Interactivo (Recomendado para ver la falla del anti-bot):**
     ```bash
@@ -77,6 +77,7 @@ El proyecto fue desarrollado en un entorno Codespaces/DevContainer, pero es ejec
 Requisito: Instalar la extensión Selenium IDE en Chrome o Firefox.
 
 Paso: Abrir la extensión y seleccionar "Open a project". Navegar a la carpeta del proyecto y cargar el archivo [pruebas_lider1].side
+Tambien Ccomentar que se probo con Katalon y seguia apareciendo el captcha
 
 Propósito: Proporciona una ejecución inmediata de los flujos grabados.
 ----------------------------------------------------------------------------------------------------------------------------------------
